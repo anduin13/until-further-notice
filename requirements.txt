@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+pycairo
+fonttools
+soundfile
+Hershey-Fonts
+librosa          # only for prepare.py
