@@ -8,9 +8,14 @@ generation and no footage: just lines, points and fills, timed to the music.
 | **Sketchbook** | `sketchbook/` | Pencil line on paper with flat, grainy print colour; an 80s comic-and-poster look. |
 | **In light** | `in_light/` | Glowing lines on darkness. Each lyric line is paired with a classic algorithm that does what the line says (a traffic model, a Galton board run backwards, Game of Life, a flow field, quicksort, a maze built then solved, fireflies falling into step, double pendulums, and so on). |
 
-The videos themselves are not in this repository (too large). Links: 
+The videos themselves are not in this repository (too large). 
+Links: 
+
 Sketchbook version: https://youtu.be/J86AUUIsn1Y 
+
 Light version: https://youtu.be/9eWxpWKkhqc?si=SPEwD6Qj8WzNv0UW 
+
+The song is on Suno: https://suno.com/s/R5lbZtSwFFDPE0v0. Download it and save it as audio/Until_Further_Notice.mp3.
 
 ## Layout
 
